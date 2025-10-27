@@ -1,17 +1,25 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![ruobing1995](file:///C:/Users/brb13/Documents/GitHub/ruobing1995.github.io/static/assets/img/background.jpeg)](https://github.com/senli1073)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+上海交通大学    助理研究员
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: bairuobing@sjtu.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+
+• 2016/08-2021/08   博士，美国匹兹堡大学， 材料化学，（导师：Prof. Haitao Liu）            
+• 2014/08-2016/05   硕士，美国阿克伦大学， 高分子材料与工程，（导师：程正迪院士）  
+• 2011/09-2014/07   学士，华东理工大学，应用化学
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
 
+1. 先进光刻工艺及仿真技术；
+
+2. 自组装图案化技术(DNA, 高分子)；
+
+3. 新型电子器件制造技术；
+
+4. 半导体制造加工工艺方法。

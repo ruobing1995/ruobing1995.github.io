@@ -1,16 +1,9 @@
+* 2012实验室年度优秀员工，2022，华为.
 
-- Outstanding Graduate Award (CUMT), 2025.
+* 上海市引进人才，2022，华为.
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
+* 明日之星，2022，华为.
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2024.
+* 金牌团队，2022，华为.
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023.
-
-- Freshman Scholarship (CUMT), 2022.
-
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
-
-- First-Prize Corporate Scholarship (CUMT), 2020.
-
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+* 田家炳科学创新金, 2012.

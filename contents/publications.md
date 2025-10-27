@@ -1,16 +1,19 @@
-#### Submitted
-
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q. Niu. LaNCoR: Label Noise-Contrastive Robust Learning for Seismic Signal Processing with Application to Microseismic Arrival Time Picking. <strong>Rej :)</strong> [[Code]](https://github.com/senli1073/LaNCor)
-
 #### Published
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+1. Ruobing Bai, Yanhao Du, Anqin Xu, Yang Hu, John R Erickson, Liwei Hui, Jun Chen, Feng Xiong, Haitao Liu, "DNA-based Strategies for Site-specific Doping". Advanced Functional Materials, 31, no. 1 (2021): 2005940.  
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+2. Liwei Hui*, Ruobing Bai*, Haitao Liu, "DNA-based Nanofabrication for Nanoelectronics". Advanced Functional Materials, 32, no. 16 (2022): 2112331. (*共同第一作者)  
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+3. Ruobing Bai, Nathan L. Tolman, Zhenbo Peng, Haitao Liu, "Influence of Atmospheric Contaminants on the Work Function of Graphite". Langmuir, 39, 34 (2023): 12159–12165.  
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
+4. Ruobing Bai, Yihan Liu, Bomin Zhang, Beishan Chen, Feng Xiong, Haitao Liu, "DNA-based Doping and Fabrication of PN Diodes". Frontiers in Nanotechnology, 6 (2024): 1291358.
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+5. Kongyu Ge, Yiming Hu, Jiangnan Yan, Jianing Ding, Yifan Gao, Hongyu Yi, Zhan Li, Lingfei Cui, Shaowei Hu, Hongjun Ji, Mingyu Li, Ruobing Bai*, Rongpei Shi*, Huanhuan Feng*, "Bio-Inspired Structural Color Irises as Physical Unclonable Functions for Anti-Counterfeiting". Advanced Science, 2025, e04771.
 
+6. Nathan L. Tolman, Ruobing Bai, and Haitao Liu, "Hydrocarbons in the Meniscus: Effects on Conductive Atomic Force Microscopy". Langmuir, 39, 12 (2023): 4274–4281.
+
+7. Hui, Liwei, Rachel Nixon, Nathan Tolman, Jason Mukai, Ruobing Bai, Risheng Wang, and Haitao Liu. "Area-Selective Atomic Layer Deposition of Metal Oxides on DNA Nanostructures and Its Applications". ACS Nano 14, no. 10 (2020): 13047-13055.
+
+8. Bo Ni, Haoran Qu, Jialin Mao, Ruobing Bai, Shuailin Zhang, Xueyan Feng, Chrys Wesdemiotis, Xue-Hui Dong, Stephen Z.D. Cheng, "Facile synthesis and linker guided self-assembly of dendron-like amphiphiles". Polymer, 167 (2019): 118-121.
+
+9. Xue-Hui Dong, Bo Ni, Mingjun Huang, Chih-Hao Hsu, Ruobing Bai, Wen-Bin Zhang, An-Chang Shi, Stephen Z.D. Cheng, "Molecular-Curvature-Induced Spontaneous Formation of Curved and Concentric Lamellae through Nucleation". Angewandte Chemie, 128.7 (2016): 2505-2509.
