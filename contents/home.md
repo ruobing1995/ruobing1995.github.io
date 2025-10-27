@@ -1,6 +1,6 @@
 
 
-[![ruobing1995](file:///C:/Users/brb13/Documents/GitHub/ruobing1995.github.io/static/assets/img/background.jpeg)](https://github.com/senli1073)
+
 
 上海交通大学    助理研究员
 
