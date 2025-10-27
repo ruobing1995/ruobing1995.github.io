@@ -1,4 +1,4 @@
-#### Published
+#### 代表性论文
 
 1. Ruobing Bai, Yanhao Du, Anqin Xu, Yang Hu, John R Erickson, Liwei Hui, Jun Chen, Feng Xiong, Haitao Liu, "DNA-based Strategies for Site-specific Doping". Advanced Functional Materials, 31, no. 1 (2021): 2005940.  
 
